@@ -21,6 +21,7 @@ body {
   width: 10px;
   height: 100px;
   background-color: orange;
+  border-bottom: 5px solid black;
 }
 
 .traffic-light {
